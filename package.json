@@ -14,9 +14,9 @@
   },
   "homepage": "https://github.com/kdzwinel/SnappySnippet",
   "dependencies": {
-    "grunt": "~0.4.4",
+    "grunt": "~1.0.0",
     "grunt-contrib-jshint": "~0.9.2",
-    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-watch": "~1.0.0",
     "grunt-contrib-csslint": "~0.2.0",
     "grunt-zip": "~0.13.0",
     "grunt-html": "^5.0.0"
